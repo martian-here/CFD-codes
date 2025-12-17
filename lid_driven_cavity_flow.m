@@ -1,8 +1,6 @@
-clc 
-clear all 
-close all
+clc, clear, close all
 
-% Input
+% Input , Steady State
 u_0 = 1;
 imax = 51; jmax = 51; 
 Re = 400; mu = 1/Re;
